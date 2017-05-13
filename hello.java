@@ -4,6 +4,7 @@ class hello{
 
 
 	System.out.println("我的第一个github仓库");
+        System.out.println("good morning");
 
 }
 }

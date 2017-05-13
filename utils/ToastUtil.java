@@ -6,4 +6,6 @@ class ToastUtil{
 
    }
 
+   public void showTast(){}
+
 }

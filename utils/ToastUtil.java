@@ -5,4 +5,6 @@ class ToastUtil{
       Log.i("TAG","I am a log");
    }
 
+   public void showTast(){}
+
 }

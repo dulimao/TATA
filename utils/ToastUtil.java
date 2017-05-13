@@ -7,5 +7,6 @@ class ToastUtil{
    }
 
    public void showTast(){}
+   private int a = 1;
 
 }
